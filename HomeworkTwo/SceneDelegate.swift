@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  someApp
+//  summerPractice
 //
-//  Created by zedsbook on 02.07.2022.
+//  Created by zedsbook on 03.07.2022.
 //
 
 import UIKit
