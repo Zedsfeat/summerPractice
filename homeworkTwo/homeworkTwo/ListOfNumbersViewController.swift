@@ -65,7 +65,7 @@ extension ListOfNumbersViewController: UITableViewDataSource, UITableViewDelegat
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "Cell", for: indexPath)
         let person = dataSourse[indexPath.row]
-        cell.textLabel?.textColor = .white
+        cell.textLabel?.textColor = .systemBlue
         cell.textLabel?.font = UIFont.boldSystemFont(ofSize: 20)
         cell.textLabel?.text = "\(person.name) \(person.surname)"
         return cell
