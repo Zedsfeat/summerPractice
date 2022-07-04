@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  TrainingApp
+//  someApp
 //
-//  Created by zedsbook on 01.07.2022.
+//  Created by zedsbook on 02.07.2022.
 //
 
 import UIKit
